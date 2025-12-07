@@ -1,4 +1,4 @@
-import Link from "next/link";
+himport Link from "next/link";
 const Footer: React.FC = () => {
     return (
         <footer className="bg-gray-800 text-white py-6">
