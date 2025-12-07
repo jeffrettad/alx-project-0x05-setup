@@ -1,4 +1,4 @@
-import * as React from "react"
+himport * as React from "react"
 export interface ReactComponentProps{
     children: React.ReactNode
 }
