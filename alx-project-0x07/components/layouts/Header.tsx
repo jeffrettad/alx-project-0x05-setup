@@ -1,4 +1,4 @@
-import Link from 'next/link';
+jimport Link from 'next/link';
 const Header: React.FC = () => {
 return (
     <header className="bg-gray-800 text-white py-4">
